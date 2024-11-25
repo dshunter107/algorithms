@@ -1,1 +1,3 @@
-This is my attempt at creating a deadlock prevention algorithm. There are a potential of 10 processes, and there are 5 resources that are utilized. The bankers algorithm prevents deadlock by making sure that there is always a path to complete all processes before allocating resources. 
+This is my attempt at creating a deadlock prevention algorithm. There are a potential of 10 processes, and there are 5 resources that are utilized. 
+
+The bankers algorithm prevents deadlock by making sure that there is always a path to complete all processes before allocating resources. 
